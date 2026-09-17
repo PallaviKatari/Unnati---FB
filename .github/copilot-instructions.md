@@ -1,0 +1,5 @@
+- Verify the workspace setup.
+- Keep the app simple and focused on the feedback form.
+- Store each submitted feedback item in feedback.json.
+- Render saved feedback immediately below the form as Bootstrap cards.
+- Run the app locally on port 3000.
