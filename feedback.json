@@ -1,12 +1,257 @@
 [
   {
-    "id": "1789644384864-2a9e861e7c317",
-    "name": "Jane Doe",
-    "remark": "Awesome"
+    "id": "1789715528758-086dce7412d6b",
+    "name": "Prajin",
+    "remark": "Nice"
   },
   {
-    "id": "1789641005848-f9dff2a6a5655",
-    "name": "John Doe",
+    "id": "1789715505386-5649bd3af6b03",
+    "name": "SANJAY.R",
+    "remark": "It was useful and informative."
+  },
+  {
+    "id": "1789715496974-642d0130391f4",
+    "name": "Sachin.R",
+    "remark": "AI is a very useful and exciting technology that makes our work easier and helps us learn new things. I am interested in how AI will improve education, creativity, and technology in the future."
+  },
+  {
+    "id": "1789715457814-af1f81925cfe3",
+    "name": "Pavithra V",
+    "remark": "Very useful session"
+  },
+  {
+    "id": "1789715419545-532e7134194bb",
+    "name": "Nivethitha.M",
     "remark": "Excellent"
+  },
+  {
+    "id": "1789715413338-351fbcb6eceea",
+    "name": "Abhishek Rana",
+    "remark": "It was very good and helpful.\nToday I learn a lots about Al"
+  },
+  {
+    "id": "1789715404609-fc3d0cc435bd4",
+    "name": "Madhumitha.M",
+    "remark": "The class was interactive and very productive for our future"
+  },
+  {
+    "id": "1789715398480-9254f0299f63f",
+    "name": "GEETHALAKSHMI A",
+    "remark": "A very productive session. We explored a lot of things which we had no idea about the applications.\nVery thankful to the mentor pallavi mam."
+  },
+  {
+    "id": "1789715394766-0c736d7b78d07",
+    "name": "Deepak Rohith M R",
+    "remark": "Most valuable session and I Just always use Gpt pr Claude don't aware of better usage of Copilot. From this I got more insights and Learned How we can use in a better by Creating Agents."
+  },
+  {
+    "id": "1789715380660-8ae86fe5c400d",
+    "name": "Nithya v",
+    "remark": "A good session"
+  },
+  {
+    "id": "1789715359754-3b273260696b1",
+    "name": "Varsha.V",
+    "remark": "Good and the session was very useful"
+  },
+  {
+    "id": "1789715356095-432d61e376632",
+    "name": "Sri tharun kumar",
+    "remark": "The technical staff are knowledgeable, supportive, and professional in their work. They respond quickly to technical issues and provide clear solutions. Their teamwork, communication, and commitment to completing the work on time are highly appreciated. Overall, their performance has been very good and satisfactory."
+  },
+  {
+    "id": "1789715338500-483ee3951327f",
+    "name": "A.Anushya",
+    "remark": "It's very useful for me\nI learnt some\nMicrosoft tools"
+  },
+  {
+    "id": "1789715338114-faa8eab92e46b",
+    "name": "Saran.k.s.",
+    "remark": "It was really good and usefull and an eye Opener in AI field"
+  },
+  {
+    "id": "1789715326656-781fdbb7536e5",
+    "name": "Anandhan.E",
+    "remark": "Great session"
+  },
+  {
+    "id": "1789715322643-de204153942c9",
+    "name": "Rexson Ganaraj J",
+    "remark": "Good"
+  },
+  {
+    "id": "1789715320786-7d967c26e31e7",
+    "name": "P bhuvanesh kumar",
+    "remark": "Session was so interactive and use full"
+  },
+  {
+    "id": "1789715319517-0a7c10d252a29",
+    "name": "S.Shadap",
+    "remark": "👍🏻"
+  },
+  {
+    "id": "1789715316078-649bd4be0fb64",
+    "name": "Mariya Merlina I E",
+    "remark": "Very useful and intresting session. We got to know many products. It was really very useful"
+  },
+  {
+    "id": "1789715301633-07cea4925f2e1",
+    "name": "Alan R",
+    "remark": "I personally think that the conversation was interactive and was much useful to level up our AI knowledge"
+  },
+  {
+    "id": "1789715298169-3c52b6c155ff",
+    "name": "Priyadharshini.R",
+    "remark": "Good"
+  },
+  {
+    "id": "1789715298168-72b3a2219bb3",
+    "name": "SANJAY S",
+    "remark": "It's very good and useful us"
+  },
+  {
+    "id": "1789715294978-2e4bc5024d052",
+    "name": "Jeevitha",
+    "remark": "Good"
+  },
+  {
+    "id": "1789715288745-4c358f908f945",
+    "name": "Rajalaxmi E",
+    "remark": "The session gone interactive and mam share more insightful thoughts to us!"
+  },
+  {
+    "id": "1789715284934-e3589fa11db88",
+    "name": "Niruthanya S",
+    "remark": "Useful program"
+  },
+  {
+    "id": "1789715284208-672a981ac4562",
+    "name": "Lucifer",
+    "remark": "Gud"
+  },
+  {
+    "id": "1789715277829-54fcc208d138d",
+    "name": "Mahalakshmi.T",
+    "remark": "Well and good"
+  },
+  {
+    "id": "1789715273685-3eb444375459",
+    "name": "M .MONISH",
+    "remark": "Good"
+  },
+  {
+    "id": "1789715272413-6e20321315c03",
+    "name": "Liviya PL",
+    "remark": "The lecture is very useful"
+  },
+  {
+    "id": "1789715260004-4b3e4834274c7",
+    "name": "Adlin Jenat",
+    "remark": "Good"
+  },
+  {
+    "id": "1789715255966-2c94a9fb589a2",
+    "name": "Gokulna",
+    "remark": "Anna yena viturungo naow"
+  },
+  {
+    "id": "1789715252681-7db96f6c6f795",
+    "name": "Rakshitha",
+    "remark": "AI is powerful and helpful technology"
+  },
+  {
+    "id": "1789715248893-ac81e301f14fe",
+    "name": "SRIMATHI.S",
+    "remark": "Good"
+  },
+  {
+    "id": "1789715248872-670f552cd7aec",
+    "name": "Aswin",
+    "remark": "Gud"
+  },
+  {
+    "id": "1789715245663-4b7607fd96ce7",
+    "name": "Aruna A",
+    "remark": "Great session"
+  },
+  {
+    "id": "1789715243522-ba12fd12ec46b",
+    "name": "Adlin jenat.D",
+    "remark": "Good"
+  },
+  {
+    "id": "1789715239338-0fafc7240754e",
+    "name": "Pooja Sri S",
+    "remark": "A good awareness session of ai"
+  },
+  {
+    "id": "1789715228883-3ccb00d92e45c",
+    "name": "Alien",
+    "remark": "Excited to learn ... click... click"
+  },
+  {
+    "id": "1789715220659-a16723548bfb4",
+    "name": "DIVYASUMITHAA K.R",
+    "remark": "Amazing and very informative session"
+  },
+  {
+    "id": "1789715191803-f13b296afb6a4",
+    "name": "Rahul.M",
+    "remark": "Very nice program"
+  },
+  {
+    "id": "1789715179580-fa19f231b1206",
+    "name": "Sriman Narayana Moorthy S",
+    "remark": "Test"
+  },
+  {
+    "id": "1789715119421-be5f4c61f4106",
+    "name": "P.SANTHOSHSIVAM",
+    "remark": "I particularly enjoyed learning about real-world applications of AI and how emerging technologies can be used to solve different problems. The interaction with the speakers also helped me gain a better perspective on the opportunities and challenges associated with AI."
+  },
+  {
+    "id": "1789715097575-5c9e5f2d5462d",
+    "name": "Sowndarya",
+    "remark": "AI is useful in future"
+  },
+  {
+    "id": "1789715093644-d23b5c3908cd9",
+    "name": "Jayavarsan A",
+    "remark": "Well and good ."
+  },
+  {
+    "id": "1789715092840-180f575569592",
+    "name": "S Naveen sanjai",
+    "remark": "It was really good and useful"
+  },
+  {
+    "id": "1789715089318-d6b00af9b0bbc",
+    "name": "G.Aniruthan",
+    "remark": "It is very useful and an eye Opener in AI field"
+  },
+  {
+    "id": "1789715087805-640ba85672039",
+    "name": "Anonymous",
+    "remark": "Good"
+  },
+  {
+    "id": "1789715085709-ce63aa67205c7",
+    "name": "xxxxxxxxxx",
+    "remark": "🫂😂👻"
+  },
+  {
+    "id": "1789715081607-815124574ff82",
+    "name": "K.Niranjan",
+    "remark": "It  is very good"
+  },
+  {
+    "id": "1789715049776-7ca2ded4e3405",
+    "name": "NITINKUMAR.M.J",
+    "remark": "It is very good and ueseful"
+  },
+  {
+    "id": "1789714898961-d65453f227ae8",
+    "name": "John Doe",
+    "remark": "Test Data"
   }
 ]
